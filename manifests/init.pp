@@ -7,7 +7,7 @@ class switchresx {
   $host = 'www.madrau.com'
   $path = 'data/switchresx/SwitchResX4.zip'
 
-  prefpane { 'switchresx':
+  prefpane { 'SwitchResX':
     source   => "http://${host}/${path}",
   }
 }

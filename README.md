@@ -12,3 +12,4 @@ include switchresx
 
 * boxen
 * stdlib
+* prefpane [https://github.com/indirect/puppet-prefpane]
